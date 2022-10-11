@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "SubAddressBlockName": "KETL-Pinnacle-1",
+      "SiteName": "KETL",
+      "RequestGUID": "ad44f457-2197-4896-9dfb-84f76580e2f1",
+      "ProductName": "Pinnacle",
+      "SerialNumber": "TA0000MG0X",
+      "Quantity": 1,
+      "AssignNew": true,
+      "Active": true,
+      "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00",
+      "RequestsHistories": [
+        {
+          "RequestHistoryId": 1148743,
+          "RequestId": 1148773,
+          "SiteId": 4,
+          "MACDecimal": 30868870583906,
+          "MACHex": "1C133810D662",
+          "MACString": "1C-13-38-10-D6-62",
+          "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "SubAddressBlockName": "KETL-Pinnacle-1",
+      "SiteName": "KETL",
+      "RequestGUID": "ad44f457-2197-4896-9dfb-84f76580e2f1",
+      "ProductName": "Pinnacle",
+      "SerialNumber": "TA0000MG0X",
+      "Quantity": 1,
+      "AssignNew": true,
+      "Active": true,
+      "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00",
+      "RequestsHistories": [
+        {
+          "RequestHistoryId": 1148743,
+          "RequestId": 1148773,
+          "SiteId": 4,
+          "MACDecimal": 30868870583906,
+          "MACHex": "1C133810D662",
+          "MACString": "1C-13-38-10-D6-62",
+          "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "SubAddressBlockName": "KETL-Pinnacle-1",
+      "SiteName": "KETL",
+      "RequestGUID": "ad44f457-2197-4896-9dfb-84f76580e2f1",
+      "ProductName": "Pinnacle",
+      "SerialNumber": "TA0000MG0X",
+      "Quantity": 1,
+      "AssignNew": true,
+      "Active": true,
+      "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00",
+      "RequestsHistories": [
+        {
+          "RequestHistoryId": 1148743,
+          "RequestId": 1148773,
+          "SiteId": 4,
+          "MACDecimal": 30868870583906,
+          "MACHex": "1C133810D662",
+          "MACString": "1C-13-38-10-D6-62",
+          "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "SubAddressBlockName": "KETL-Pinnacle-1",
+      "SiteName": "KETL",
+      "RequestGUID": "ad44f457-2197-4896-9dfb-84f76580e2f1",
+      "ProductName": "Pinnacle",
+      "SerialNumber": "TA0000MG0X",
+      "Quantity": 1,
+      "AssignNew": true,
+      "Active": true,
+      "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00",
+      "RequestsHistories": [
+        {
+          "RequestHistoryId": 1148743,
+          "RequestId": 1148773,
+          "SiteId": 4,
+          "MACDecimal": 30868870583906,
+          "MACHex": "1C133810D662",
+          "MACString": "1C-13-38-10-D6-62",
+          "DateTimeCreated": "2022-08-08T16:51:32.7013974+07:00"
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
